@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+transformers>=4.40
+datasets>=2.14
+timm>=0.9
+numpy
+scikit-learn
+tqdm
+Pillow
